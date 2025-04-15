@@ -1,14 +1,14 @@
-2025-04-14 23:56:02.408783 - Received CBT.V508.FILE138.PDS from FILE138.XMI 
-2025-04-14 23:56:02.410618 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/$$$#DATE
-2025-04-14 23:56:02.410815 - Found $$DOC.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/$$DOC
-2025-04-14 23:56:02.411020 - Found @FILE138.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/@FILE138
-2025-04-14 23:56:02.411215 - Found ASMJCL.jcl (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/ASMJCL
-2025-04-14 23:56:02.411400 - Found HELPMEM.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/HELPMEM
-2025-04-14 23:56:02.411587 - Found LDROP.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/LDROP
-2025-04-14 23:56:02.411784 - Found LUSE.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/LUSE
-2025-04-14 23:56:02.411970 - Found PRIME.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/PRIME
-2025-04-14 23:56:02.412161 - Found REGS.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/REGS
-2025-04-14 23:56:02.412522 - Found SYSTEMID.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/SYSTEMID
-2025-04-14 23:56:02.412793 - Found SYSTEMOL.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/SYSTEMOL
-2025-04-14 23:56:02.412975 - Found TABLE.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/TABLE
-2025-04-14 23:56:02.413184 - Found TERME.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/TERME
+2025-04-15 18:44:59.173356 - Received CBT.V508.FILE138.PDS from FILE138.XMI 
+2025-04-15 18:44:59.174609 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/$$$#DATE
+2025-04-15 18:44:59.175049 - Found $$DOC.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/$$DOC
+2025-04-15 18:44:59.175116 - Found @FILE138.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/@FILE138
+2025-04-15 18:44:59.175309 - Found ASMJCL.jcl (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/ASMJCL
+2025-04-15 18:44:59.175644 - Found HELPMEM.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/HELPMEM
+2025-04-15 18:44:59.175838 - Found LDROP.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/LDROP
+2025-04-15 18:44:59.176044 - Found LUSE.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/LUSE
+2025-04-15 18:44:59.176230 - Found PRIME.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/PRIME
+2025-04-15 18:44:59.176412 - Found REGS.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/REGS
+2025-04-15 18:44:59.176762 - Found SYSTEMID.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/SYSTEMID
+2025-04-15 18:44:59.177041 - Found SYSTEMOL.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/SYSTEMOL
+2025-04-15 18:44:59.177267 - Found TABLE.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/TABLE
+2025-04-15 18:44:59.177506 - Found TERME.txt (text/plain) in CBT.V508.FILE138.PDS, moved to PDS/TERME
